@@ -1,7 +1,7 @@
 - Hi, I’m Ushira Dineth
-- I’m interested in Web Development
-- I’m currently learning Python and Javascript
-- I’m looking to collaborate on web projects
+- I’m interested in Full Stack Web Development
+- I’m currently learning React
+- I'm planing to learn NextJS, TypeScript, ASP.NET and i plan to improve my UI/UX design skills in the future
 - You can reach me through my email: ushiradineth@gmail.com and my linkedin: www.linkedin.com/in/ushiradineth
 
 <!---
