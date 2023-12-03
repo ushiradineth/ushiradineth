@@ -1,13 +1,23 @@
-- Hi, I’m Ushira Dineth
-- I’m a Full Stack Web Developer
-- I'm currently doing my final year of my Software Engineering Degree at SLIIT Academy, Sri Lanka
-- I'm currently working as a Software Engineering Intern at Surge Global, Sri Lanka
-- My primary go to stack for applications is the T3 Stack (NextJS, TypeScript, tRPC, Prisma, TailwindCSS)
-- I'm currently working on improving my UI/UX design skills with Figma
-- You can reach me through my Email (ushiradineth@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ushiradineth/)
-- You can check out my portfolio [here](http://ushiradineth.github.io)
+### Hi there, I'm Ushira Dineth 👋
 
-<!---
-ushiradineth/ushiradineth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate software engineer with expertise in TypeScript, Kubernetes, DevOps, Next.js, and React. Currently, I'm diving into the worlds of Rust and Go.
+
+#### 💼 Professional Experience
+- Associate Software Engineer at Surge Global
+
+#### 🚀 Tech Stack
+- TypeScript
+- Kubernetes | Docker
+- DevOps | GitOps
+- Next.js | React
+
+#### 🌱 Currently Learning
+- Rust
+- Go
+
+#### 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/ushiradineth)
+- [Twitter](https://twitter.com/ushiradineth)
+- [Email](mailto:ushiradineth@gmail.com)
+
+Thanks for stopping by!
