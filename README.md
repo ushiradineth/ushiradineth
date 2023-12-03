@@ -14,10 +14,3 @@ I'm a passionate software engineer with expertise in TypeScript, Kubernetes, Dev
 #### 🌱 Currently Learning
 - Rust
 - Go
-
-#### 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/ushiradineth)
-- [Twitter](https://twitter.com/ushiradineth)
-- [Email](mailto:ushiradineth@gmail.com)
-
-Thanks for stopping by!
