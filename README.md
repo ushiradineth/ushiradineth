@@ -11,8 +11,8 @@
 <p align="center">
   <samp>
     <strong>&#x1F331; Currently Learning</strong> &middot;
-    <span>Rust</span> &middot;
     <span>Go</span> &middot;
-    <span>ML/AI</span>
+    <span>Backend</span> &middot;
+    <span>TDD</span>
   </samp>
 </p>
