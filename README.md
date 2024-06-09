@@ -13,7 +13,7 @@ I'm a 22-year-old software engineer in Sri Lanka, and I'm focused on building pr
 
 **Infrastructure:** `Kubernetes` `Docker` `AWS` `Terraform`
 
-**Others:** `Kanban` `TickTick` `Linear` `Figma` `Obsidian` `Excalidraw`
+**Others:** `Kanban` `Jira` `Linear` `Figma` `Obsidian` `Excalidraw`
 
 ## 📫 Contact
 
