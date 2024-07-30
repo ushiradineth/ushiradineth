@@ -5,17 +5,20 @@ I'm a 22-year-old software engineer in Sri Lanka, and I'm focused on building pr
 - Check out my [portfolio](https://www.ushira.com/) to learn more about me.
 - Explore my [blog](https://medium.com/@ushiradineth) where I share insights and learnings.
  
-## 📦 Toolbox
+## 📦 Tool and Concepts
 
-**Frontend:** `React` `Next.js` `TypeScript` `Tailwind`
+**Frontend:** `React` `Next.js` `TypeScript`
  
 **Backend:** `Go` `Nest.js` `GraphQL` `tRPC`
 
-**Infrastructure:** `Kubernetes` `Docker` `AWS` `Terraform`
+**Cloud:** `AWS` `Azure` `Bitbucket Pipelines` `Github Actions` `Azure Devops`
+
+**Infrastructure:** `Kubernetes` `Docker` `Terraform` `Ansible`
+
+**General:** `Python` `Bash` `NixOS` `Linux`
 
 **Others:** `Kanban` `Jira` `Linear` `Figma` `Obsidian` `Excalidraw`
 
 ## 📫 Contact
 
 Contact me on [Twitter](https://www.twitter.com/ushiradineth/) or [LinkedIn](https://www.linkedin.com/in/ushiradineth/).
- 
