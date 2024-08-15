@@ -1,24 +1,22 @@
-### Hey, I'm Ushira 👋
-
-I'm a 22-year-old software engineer in Sri Lanka, and I'm focused on building products with extra attention to detail from UI/UX to Infrastructure and everything in between.
+# Hey, I'm Ushira 👋
 
 - Check out my [portfolio](https://www.ushira.com/) to learn more about me.
 - Explore my [blog](https://medium.com/@ushiradineth) where I share insights and learnings.
- 
-## 📦 Tool and Concepts
+  
+## 📦 Skills
 
-**Frontend:** `React` `Next.js` `TypeScript`
- 
-**Backend:** `Go` `Nest.js` `GraphQL` `tRPC`
+**Frontend**: `React` `Next.js` `TypeScript` `Tailwind CSS`
+
+**Backend**: `Go` `Nest.js` `GraphQL` `tRPC` `Node.js` `Laravel`
 
 **Cloud:** `AWS` `Azure` `Bitbucket Pipelines` `Github Actions` `Azure Devops`
 
-**Infrastructure:** `Kubernetes` `Docker` `Terraform` `Ansible`
+**DevOps**: `Kubernetes` `Docker` `Terraform` `Ansible` `ArgoCD` `GitOps`
 
-**General:** `Python` `Bash` `NixOS` `Linux`
+**General**: `Python` `Bash` `Lua` `Linux` `NixOS`
 
-**Others:** `Kanban` `Jira` `Linear` `Figma` `Obsidian` `Excalidraw`
+**Tools**: `Jira` `Linear` `Figma` `Obsidian` `Excalidraw`
 
 ## 📫 Contact
 
-Contact me on [Twitter](https://www.twitter.com/ushiradineth/) or [LinkedIn](https://www.linkedin.com/in/ushiradineth/).
+Contact me on [Twitter](https://www.x.com/ushiradineth/) or [LinkedIn](https://www.linkedin.com/in/ushiradineth/).
