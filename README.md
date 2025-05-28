@@ -1,21 +1,21 @@
 # Hey, I'm Ushira 👋
 
 - Check out my [portfolio](https://www.ushira.com/) to learn more about me.
-- Explore my [blog](https://medium.com/@ushiradineth) where I share insights and learnings.
-  
+- Explore my [blog](https://ushira.com/blog) where I share insights and learnings.
+
 ## 📦 Skills
 
-**Frontend**: `React` `Next.js` `TypeScript` `Tailwind CSS`
+**Languages**: `Rust` `Go` `TypeScript` `Lua` `Bash`
 
-**Backend**: `Go` `Nest.js` `GraphQL` `tRPC` `Node.js` `Laravel`
+**Libraries/Frameworks**: `Next.js` `NestJS` `React` `Tokio` `tRPC` `Tailwind CSS`
 
-**Cloud:** `AWS` `Azure` `Bitbucket Pipelines` `Github Actions` `Azure Devops`
+**Cloud & DevOps**: `AWS` `Azure` `GCP` `Cloudflare` `Terraform` `Ansible` `Docker` `ArgoCD` `GitOps` `CI/CD`
 
-**DevOps**: `Kubernetes` `Docker` `Terraform` `Ansible` `ArgoCD` `GitOps`
+**Kubernetes & Infra**: `Istio` `Prometheus` `Grafana` `Loki` `Kiali` `Helm` `Cert Manager` `K6` `Velero` `Kyverno`
 
-**General**: `Python` `Bash` `Lua` `Linux` `NixOS`
+**Databases**: `PostgreSQL` `MySQL` `MongoDB` `Redis`
 
-**Tools**: `Jira` `Linear` `Figma` `Obsidian` `Excalidraw`
+**Tools**: `Git` `NixOS` `Cloudflare Zero Trust` `Figma` `Jira` `Obsidian` `Excalidraw`
 
 ## 📫 Contact
 
